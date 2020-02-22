@@ -16,5 +16,4 @@
 | Porto Seguro's Safe Driver Prediction | end | Car insurance | middle | https://www.kaggle.com/c/porto-seguro-safe-driver-prediction |
 | Costa Rican Household Poverty Level Prediction | end | public | middle | https://www.kaggle.com/c/costa-rican-household-poverty-prediction/overview/description |
 | New York City Taxi Trip Duration | end | transportation | middle | https://www.kaggle.com/c/nyc-taxi-trip-duration |
-| Digit Recognizer | end | "Computer Vision
-(image)" | high | https://www.kaggle.com/c/digit-recognizer |
+| Digit Recognizer | end | Computer Vision | high | https://www.kaggle.com/c/digit-recognizer |
