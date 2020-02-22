@@ -3,13 +3,8 @@
 ### 1. 개요
 - 본인의 프로젝트를 통해 데이터분석 역량을 늘린다. <br>
 
-### Project
 
-### 1. 개요
-- 본인의 프로젝트를 통해 데이터분석 역량을 늘린다. <br>
-
-### 2. 진행방식
-<br>
+### 2. 진행방식  
 Week | Contents
 ---|:---:
 1st | Introduction & Decide the topic
