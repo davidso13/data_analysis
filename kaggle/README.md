@@ -13,3 +13,8 @@
 | House Prices: Advanced Regression Techniques | end | property | middle | https://www.kaggle.com/c/house-prices-advanced-regression-techniques |
 | Bike Sharing Demand | end | transportation | middle | https://www.kaggle.com/c/bike-sharing-demand |
 | Home Credit Default Risk | end | Lending | High | https://www.kaggle.com/c/home-credit-default-risk/overview/description |
+| Porto Seguro's Safe Driver Prediction | end | Car insurance | middle | https://www.kaggle.com/c/porto-seguro-safe-driver-prediction |
+| Costa Rican Household Poverty Level Prediction | end | public | middle | https://www.kaggle.com/c/costa-rican-household-poverty-prediction/overview/description |
+| New York City Taxi Trip Duration | end | transportation | middle | https://www.kaggle.com/c/nyc-taxi-trip-duration |
+| Digit Recognizer | end | "Computer Vision
+(image)" | high | https://www.kaggle.com/c/digit-recognizer |
